@@ -1,0 +1,11 @@
+
+img {
+    display:block;
+    border: 5px solid green;
+    width: 65%;
+    margin: 0 auto;
+}
+h1, p{
+    border: 5px solid blue;
+    text-align: center;
+}
