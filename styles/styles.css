@@ -1,11 +1,31 @@
-
-img {
-    display:block;
-    border: 5px solid green;
-    width: 65%;
+.content {
+    max-width: 1600px;
     margin: 0 auto;
+  }
+  nav a {
+      text-align: center;
+  }
+  #hero-msg h1 {
+      text-align: center;
+  }
+  #hero-msg h4 {
+      text-align: center;
+  }
+  .button-box {
+      text-align: center;
+  }
+  main section {
+      text-align: center;
+  }
+  #background {
+    height: 725px;
 }
-h1, p{
-    border: 5px solid blue;
-    text-align: center;
+body {
+    background-color: #fcfbfb; 
+}
+header {
+    background-color: #2C7DA0;
+}
+nav a:hover {
+    background-color: black;
 }
